@@ -1,0 +1,21 @@
+modes
+-Event Counter (Input Edge Count - Input Edge Time)
+-Timer  (one shot timer / periodic timer )
+-RTC
+-PWM
+
+config
+-Independent 2 Timers: Timer A / Timer B
+-Timer Prescalar
+-Count Up / Count Down
+-GPIO Pins 
+
+-Daisy Chaining (Wait On Trigger)
+-Synchronization
+-Stalling while Debugging
+-Snapshot
+-Match
+-Interrupt(Flags should be cleared by SW)
+-Value Update
+-64bit Timer Handling
+
